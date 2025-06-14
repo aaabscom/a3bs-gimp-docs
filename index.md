@@ -1,8 +1,8 @@
 ---
 title: A³BS GIMP Docs
-css: assets/css/style.css
 ---
 
+<link rel="stylesheet" href="assets/css/style.css">
 <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
 
 <header></header>
