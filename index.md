@@ -5,8 +5,6 @@ title: A³BS GIMP Docs
 <link rel="stylesheet" href="assets/css/style.css">
 <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
 
-<header></header>
-
 # A³BS GIMP 3 Documentation
 
 Welcome to the official documentation site for GIMP 3 automation tools created by **A Cubed Business Solutions**.
