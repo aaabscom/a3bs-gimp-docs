@@ -1,16 +1,13 @@
-# A³BS GIMP 3 Documentation
+# a3bs-gimp-docs
 
-Welcome to the official documentation for GIMP 3 extensions created by A Cubed Business Solutions.
+Public documentation for A Cubed's GIMP 3 automation tools and plugins.
 
-📁 `docs/` contains markdown files for:
-- Plugin overviews
-- Setup instructions
-- Development tips
-- Procedural documentation
-
-Follow us on Instagram & Threads: [@aaabscom](https://instagram.com/aaabscom)  
-Website coming soon: https://aaabs.com
+📄 View the live docs site: [a3bs-gimp-docs](https://aaabscom.github.io/a3bs-gimp-docs/)
 
 ---
 
-🚧 This repository is under active development.
+This repo contains:
+
+- Class documentation
+- Plugin introspection utilities
+- Batch workflows and image tools
