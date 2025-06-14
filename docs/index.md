@@ -1,5 +1,26 @@
-# Welcome to A³BS GIMP Docs
+# A³BS GIMP 3 Documentation
 
-This documentation hub is dedicated to tools, plugins, and automation methods used in GIMP 3 by A Cubed Business Solutions.
+Welcome to the official documentation site for GIMP 3 automation tools created by **A Cubed Business Solutions**.
 
-Stay tuned for updates!
+We’re developing a suite of plugins and utilities to streamline graphic workflows using the new GIMP 3 API — with a focus on clarity, introspection, and vector manipulation.
+
+---
+
+## 📂 Documentation Contents
+
+- [Plugin Overview](plugin_overview.md)
+- Class-based documentation for each tool (coming soon)
+- Sample workflows and usage demos
+
+---
+
+## 🔗 Related Links
+
+- Instagram / Threads: [@aaabscom](https://instagram.com/aaabscom)
+- Website: [aaabs.com](https://aaabs.com)
+- GitHub Repository: [a3bs-gimp-docs](https://github.com/aaabscom/a3bs-gimp-docs)
+
+---
+
+> 🚧 This documentation site is actively evolving.  
+> Stay tuned for new introspection tools and batch automation techniques.
