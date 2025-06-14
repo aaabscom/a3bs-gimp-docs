@@ -1,3 +1,8 @@
+---
+title: A³BS GIMP Docs
+css: assets/css/style.css
+---
+
 # A³BS GIMP 3 Documentation
 
 Welcome to the official documentation site for GIMP 3 automation tools created by **A Cubed Business Solutions**.
