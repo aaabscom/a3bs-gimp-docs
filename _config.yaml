@@ -1,0 +1,8 @@
+title: A Cubed GIMP Docs
+description: GIMP 3 Python and PDB class references by A³BS
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+permalink: pretty

@@ -1,0 +1,27 @@
+body {
+  background-image: url("../images/urb2.webp");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #f0f0f0;
+  font-family: sans-serif;
+  line-height: 1.6;
+  margin: 0;
+}
+
+h1, h2, h3 {
+  color: #ffffff;
+}
+
+a {
+  color: #8ec3b0;
+}
+
+header {
+  background-image: url("../images/header-banner.webp");
+  background-size: cover;
+  height: 300px;
+  border-bottom: 1px solid #333;
+  margin-bottom: 2rem;
+}
