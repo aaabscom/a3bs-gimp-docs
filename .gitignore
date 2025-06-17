@@ -1,0 +1,5 @@
+# Ignore Python caches, zips, and build files
+__pycache__/
+*.pyc
+*.zip
+*.bak
