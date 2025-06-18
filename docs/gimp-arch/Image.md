@@ -23,10 +23,8 @@ layout: default
         - `builtins.object` *(Builtin)*
 <br>
 
-
 <a name="public-methods"></a>
 #### 🔧 Public Methods
-
 
 ##### 🔧 add_* Methods
 **add_hguide**  
@@ -51,6 +49,7 @@ _Unable to extract signature — no signature found for builtin <method 'chain' 
 `()`<br>
 **compat_control**  
 `(self, *args, **kargs)`<br>
+
 ##### 🔧 connect_* Methods
 ⚠️ **connect**
 _Unable to extract signature — no signature found for builtin <method 'connect' of 'gi._gi.GObject' objects>_<br>
@@ -62,6 +61,7 @@ _Unable to extract signature — no signature found for builtin <method 'connect
 _Unable to extract signature — no signature found for builtin <method 'connect_object' of 'gi._gi.GObject' objects>_<br>
 ⚠️ **connect_object_after**
 _Unable to extract signature — no signature found for builtin <method 'connect_object_after' of 'gi._gi.GObject' objects>_<br>
+
 ##### 🔧 convert_* Methods
 **convert_color_profile**  
 `(profile: BOXED, intent: BOXED, bpc: BOOLEAN)`<br>
@@ -79,6 +79,7 @@ _Unable to extract signature — no signature found for builtin <method 'connect
 `(width: INT32, height: INT32, matrix: BOXED)`<br>
 **crop**  
 `(new_width: INT32, new_height: INT32, offx: INT32, offy: INT32)`<br>
+
 ##### 🔧 delete_* Methods
 **delete**  
 `()`<br>
@@ -102,6 +103,7 @@ _Unable to extract signature — no signature found for builtin <method 'emit' o
 `(file: BOXED, path: BOXED)`<br>
 **export_path_to_string**  
 `(path: BOXED)`<br>
+
 ##### 🔧 find_* Methods
 **find_next_guide**  
 `(guide: INT32)`<br>
@@ -117,6 +119,7 @@ _Unable to extract signature — no signature found for builtin <method 'emit' o
 `()`<br>
 **force_floating**  
 `(self, *args, **kargs)`<br>
+
 ##### 🔧 freeze_* Methods
 **freeze_channels**  
 `()`<br>
@@ -126,6 +129,7 @@ _Unable to extract signature — no signature found for builtin <method 'emit' o
 `(self)`<br>
 **freeze_paths**  
 `()`<br>
+
 ##### 🔧 get_* Methods
 **get_base_type**  
 `()`<br>
@@ -231,6 +235,7 @@ _Unable to extract signature — no signature found for builtin <method 'get_pro
 `()`<br>
 **getv**  
 `(n_properties: UINT32, names: FLAGS, values: FLAGS)`<br>
+
 ##### 🔧 grid_* Methods
 **grid_get_background_color**  
 `()`<br>
@@ -252,6 +257,7 @@ _Unable to extract signature — no signature found for builtin <method 'get_pro
 `(xspacing: DOUBLE, yspacing: DOUBLE)`<br>
 **grid_set_style**  
 `(style: BOXED)`<br>
+
 ##### 🔧 handler_* Methods
 **handler_block**  
 `(obj, handler_id)`<br>
@@ -271,6 +277,7 @@ _Unable to extract signature — no signature found for builtin <method 'handler
 `(file: BOXED, merge: BOOLEAN, scale: BOOLEAN, paths: FLAGS)`<br>
 **import_paths_from_string**  
 `(string: STRING, length: INT32, merge: BOOLEAN, scale: BOOLEAN, paths: FLAGS)`<br>
+
 ##### 🔧 insert_* Methods
 **insert_channel**  
 `(channel: BOXED, parent: BOXED, position: INT32)`<br>
@@ -282,6 +289,7 @@ _Unable to extract signature — no signature found for builtin <method 'handler
 `(n_pspecs: UINT32, pspecs: FLAGS)`<br>
 **install_property**  
 `(property_id: UINT32, pspec: BOXED)`<br>
+
 ##### 🔧 interface_* Methods
 **interface_find_property**  
 `(self, *args, **kargs)`<br>
@@ -289,6 +297,7 @@ _Unable to extract signature — no signature found for builtin <method 'handler
 `(self, *args, **kargs)`<br>
 **interface_list_properties**  
 `(self, *args, **kargs)`<br>
+
 ##### 🔧 is_* Methods
 **is_dirty**  
 `()`<br>
@@ -306,6 +315,7 @@ _Unable to extract signature — no signature found for builtin <method 'handler
 `(merge_layer: BOXED, merge_type: BOXED)`<br>
 **merge_visible_layers**  
 `(merge_type: BOXED)`<br>
+
 ##### 🔧 metadata_* Methods
 **metadata_load_thumbnail**  
 `(file: BOXED)`<br>
@@ -341,6 +351,7 @@ _Unable to extract signature — no signature found for builtin <method 'handler
 `(self, *args, **kargs)`<br>
 **ref_sink**  
 `(self, *args, **kargs)`<br>
+
 ##### 🔧 remove_* Methods
 **remove_channel**  
 `(channel: BOXED)`<br>
@@ -364,6 +375,7 @@ _Unable to extract signature — no signature found for builtin <method 'handler
 `()`<br>
 **scale**  
 `(new_width: INT32, new_height: INT32)`<br>
+
 ##### 🔧 select_* Methods
 **select_color**  
 `(operation: BOXED, drawable: BOXED, color: BOXED)`<br>
@@ -379,6 +391,7 @@ _Unable to extract signature — no signature found for builtin <method 'handler
 `(operation: BOXED, x: DOUBLE, y: DOUBLE, width: DOUBLE, height: DOUBLE)`<br>
 **select_round_rectangle**  
 `(operation: BOXED, x: DOUBLE, y: DOUBLE, width: DOUBLE, height: DOUBLE, corner_radius_x: DOUBLE, corner_radius_y: DOUBLE)`<br>
+
 ##### 🔧 set_* Methods
 **set_color_profile**  
 `(profile: BOXED)`<br>
@@ -428,6 +441,7 @@ _Unable to extract signature — no signature found for builtin <method 'set_pro
 `(self, detailed_signal)`<br>
 ⚠️ **stop_emission_by_name**
 _Unable to extract signature — callable gi.FunctionInfo(signal_stop_emission_by_name) is not supported by signature_<br>
+
 ##### 🔧 take_* Methods
 **take_selected_channels**  
 `(channels: PARAM)`<br>
@@ -435,6 +449,7 @@ _Unable to extract signature — callable gi.FunctionInfo(signal_stop_emission_b
 `(layers: PARAM)`<br>
 **take_selected_paths**  
 `(paths: PARAM)`<br>
+
 ##### 🔧 thaw_* Methods
 **thaw_channels**  
 `()`<br>
@@ -444,6 +459,7 @@ _Unable to extract signature — callable gi.FunctionInfo(signal_stop_emission_b
 `()`<br>
 **thaw_paths**  
 `()`<br>
+
 ##### 🔧 undo_* Methods
 **undo_disable**  
 `()`<br>
@@ -469,14 +485,13 @@ _Unable to extract signature — callable gi.FunctionInfo(signal_stop_emission_b
 _Unable to extract signature — no signature found for builtin <method 'weak_ref' of 'gi._gi.GObject' objects>_<br>
 <br>
 
-
 <a name="properties"></a>
 ### ⚙️ Properties
-
 
 <span style="font-size:0.9em;">🏷️ Class properties</span>
 - **id**: `gint` (read/write)
 <br>
+
 #### Signals
 <span style="font-size:0.9em;">📣 Signal events</span>
 <br>
