@@ -7,28 +7,29 @@ layout: default
 ## Table of Contents
 - [Class: Image](#class-image)
   - [🔹 Public Methods](#-public-methods)
+    - [🔧 add_* Methods](#add_-methods)
   - [🔒 Private Methods](#-private-methods)
   - [⚙️ Dunder Methods](#️-dunder-methods)
   - [🏷️ Properties](#-properties)
   - [📣 Signals](#-signals)
 
 ### Class: Image
-**Module**: gi.repository.Gimp  
-**Base Class**: Object<br><br>
-**Inheritance Tree**:
-- `gi.repository.Gimp.Image` *(GI-wrapped ,GObject.Object)*
-  - `gi.overrides.GObject.Object` *(GI-wrapped ,GObject.Object)*
-    - `gi.repository.GObject.Object` *(GI-wrapped)*
-      - `gi._gi.GObject`
-        - `builtins.object` *(Builtin)*
-<br>
+- **Module**: gi.repository.Gimp  
+- **Base Class**: Object<br><br>
+- **Inheritance Tree**:
+  - `gi.repository.Gimp.Image` *(GI-wrapped ,GObject.Object)*
+    - `gi.overrides.GObject.Object` *(GI-wrapped ,GObject.Object)*
+      - `gi.repository.GObject.Object` *(GI-wrapped)*
+        - `gi._gi.GObject`
+          - `builtins.object` *(Builtin)*
 
 <a name="public-methods"></a>
 #### 🔧 Public Methods
 
+<a name="add_-methods"></a>
 ##### 🔧 add_* Methods
-- **add_hguide**  
-  - `(yposition: INT32)`<br>
+  **add_hguide**  
+    `(yposition: INT32)`
 **add_sample_point**  
 `(position_x: INT32, position_y: INT32)`<br>
 **add_vguide**  
