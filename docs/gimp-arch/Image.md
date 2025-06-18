@@ -464,9 +464,9 @@ _Unable to extract signature — callable gi.FunctionInfo(signal_stop_emission_b
 _Unable to extract signature — no signature found for builtin <method 'weak_ref' of 'gi._gi.GObject' objects>_<br>
 <br>
 #### Properties
-<span style="font-size:0.9em;">🏷️ Class properties</span>
+
 - **id**: `gint` (read/write)
 <br>
 #### Signals
-<span style="font-size:0.9em;">📣 Signal events</span>
+
 <br>
