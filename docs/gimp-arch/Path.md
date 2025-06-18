@@ -17,7 +17,12 @@
         - `gi._gi.GObject`
           - `builtins.object` *(Builtin)*
 <br>
+
+
+<a name="public-methods"></a>
 #### 🔹 Public Methods
+
+
 **attach_parasite**  
 `(parasite: BOXED)`<br>
 ##### 🔧 bezier_* Methods
@@ -299,8 +304,18 @@ _Unable to extract signature — callable gi.FunctionInfo(signal_stop_emission_b
 ⚠️ **weak_ref**
 _Unable to extract signature — no signature found for builtin <method 'weak_ref' of 'gi._gi.GObject' objects>_<br>
 <br>
+
+
+<a name="properties"></a>
 #### 🏷️ Properties
+
+
 - **id**: `gint` (read/write)
 <br>
+
+
+<a name="signals"></a>
 #### 📣 Signals
+
+
 <br>

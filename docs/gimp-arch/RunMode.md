@@ -15,7 +15,12 @@
     - `builtins.int` *(Builtin)*
       - `builtins.object` *(Builtin)*
 <br>
+
+
+<a name="public-methods"></a>
 #### 🔹 Public Methods
+
+
 **as_integer_ratio**  
 `(self, /)`<br>
 **bit_count**  
@@ -29,9 +34,19 @@ _Unable to extract signature — no signature found for builtin <method 'conjuga
 **to_bytes**  
 `(self, /, length=1, byteorder='big', *, signed=False)`<br>
 <br>
+
+
+<a name="properties"></a>
 #### 🏷️ Properties
+
+
 _No properties found_
 <br>
+
+
+<a name="signals"></a>
 #### 📣 Signals
+
+
 _No signal metadata found (not exposed by GI)_
 <br>

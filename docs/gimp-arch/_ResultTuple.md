@@ -15,15 +15,30 @@
     - `builtins.tuple` *(Builtin)*
       - `builtins.object` *(Builtin)*
 <br>
+
+
+<a name="public-methods"></a>
 #### 🔹 Public Methods
+
+
 **count**  
 `(self, value, /)`<br>
 **index**  
 `(self, value, start=0, stop=9223372036854775807, /)`<br>
 <br>
+
+
+<a name="properties"></a>
 #### 🏷️ Properties
+
+
 _No properties found_
 <br>
+
+
+<a name="signals"></a>
 #### 📣 Signals
+
+
 _No signal metadata found (not exposed by GI)_
 <br>

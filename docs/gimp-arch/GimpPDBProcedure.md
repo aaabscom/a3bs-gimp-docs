@@ -23,9 +23,14 @@ layout: default
         - `gi._gi.GObject`
           - `builtins.object` *(Builtin)*
 <br>
-#### 🔧 Public Methods
-##### add_* Methods
 
+
+<a name="public-methods"></a>
+#### 🔧 Public Methods
+
+
+##### add_* Methods
+<span style="font-size:0.9em;">🔧</span>
 **add_boolean_argument**  
 `(name: STRING, nick: STRING, blurb: STRING, value: BOOLEAN, flags: BOXED)`<br>
 **add_boolean_aux_argument**  
@@ -247,7 +252,7 @@ _Unable to extract signature — no signature found for builtin <method 'chain' 
 **compat_control**  
 `(self, *args, **kargs)`<br>
 ##### connect_* Methods
-
+<span style="font-size:0.9em;">🔧</span>
 ⚠️ **connect**
 _Unable to extract signature — no signature found for builtin <method 'connect' of 'gi._gi.GObject' objects>_<br>
 ⚠️ **connect_after**
@@ -265,7 +270,7 @@ _Unable to extract signature — callable gi.FunctionInfo(signal_handler_disconn
 ⚠️ **disconnect_by_func**
 _Unable to extract signature — no signature found for builtin <method 'disconnect_by_func' of 'gi._gi.GObject' objects>_<br>
 ##### do_* Methods
-
+<span style="font-size:0.9em;">🔧</span>
 **do_install**  
 `()`<br>
 **do_run**  
@@ -279,7 +284,7 @@ _Unable to extract signature — no signature found for builtin <method 'emit' o
 **emit_stop_by_name**  
 `(self, detailed_signal)`<br>
 ##### find_* Methods
-
+<span style="font-size:0.9em;">🔧</span>
 **find_argument**  
 `(name: STRING)`<br>
 **find_aux_argument**  
@@ -293,7 +298,7 @@ _Unable to extract signature — no signature found for builtin <method 'emit' o
 **freeze_notify**  
 `(self)`<br>
 ##### get_* Methods
-
+<span style="font-size:0.9em;">🔧</span>
 **get_argument_sync**  
 `(arg_name: STRING)`<br>
 **get_arguments**  
@@ -347,7 +352,7 @@ _Unable to extract signature — no signature found for builtin <method 'get_pro
 **getv**  
 `(n_properties: UINT32, names: FLAGS, values: FLAGS)`<br>
 ##### handler_* Methods
-
+<span style="font-size:0.9em;">🔧</span>
 **handler_block**  
 `(obj, handler_id)`<br>
 ⚠️ **handler_block_by_func**
@@ -365,7 +370,7 @@ _Unable to extract signature — no signature found for builtin <method 'handler
 **install_property**  
 `(property_id: UINT32, pspec: BOXED)`<br>
 ##### interface_* Methods
-
+<span style="font-size:0.9em;">🔧</span>
 **interface_find_property**  
 `(self, *args, **kargs)`<br>
 **interface_install_property**  
@@ -405,7 +410,7 @@ _Unable to extract signature — no signature found for builtin <method 'handler
 **run_dispose**  
 `()`<br>
 ##### set_* Methods
-
+<span style="font-size:0.9em;">🔧</span>
 **set_argument_sync**  
 `(arg_name: STRING, sync: BOXED)`<br>
 **set_attribution**  
@@ -447,13 +452,18 @@ _Unable to extract signature — callable gi.FunctionInfo(signal_stop_emission_b
 ⚠️ **weak_ref**
 _Unable to extract signature — no signature found for builtin <method 'weak_ref' of 'gi._gi.GObject' objects>_<br>
 <br>
-#### Properties
 
+
+<a name="properties"></a>
+#### ⚙️ Properties
+
+
+<span style="font-size:0.9em;">🏷️</span>
 - **plug-in**: `GimpPlugIn` (read/write)
 - **name**: `gchararray` (read/write)
 - **procedure-type**: `GimpPDBProcType` (read/write)
 - **pdb**: `GimpPDB` (read/write)
 <br>
 #### Signals
-
+<span style="font-size:0.9em;">📣</span>
 <br>

@@ -19,7 +19,12 @@
             - `gobject.GInterface` *(Builtin)*
               - `builtins.object` *(Builtin)*
 <br>
+
+
+<a name="public-methods"></a>
 #### 🔹 Public Methods
+
+
 ⚠️ **bind_property**
 _Unable to extract signature — no signature found for builtin <method 'bind_property' of 'gi._gi.GObject' objects>_<br>
 **bind_property_full**  
@@ -177,8 +182,18 @@ _Unable to extract signature — callable gi.FunctionInfo(signal_stop_emission_b
 ⚠️ **weak_ref**
 _Unable to extract signature — no signature found for builtin <method 'weak_ref' of 'gi._gi.GObject' objects>_<br>
 <br>
+
+
+<a name="properties"></a>
 #### 🏷️ Properties
+
+
 - **procedure**: `GimpProcedure` (read/write)
 <br>
+
+
+<a name="signals"></a>
 #### 📣 Signals
+
+
 <br>

@@ -22,7 +22,12 @@ layout: default
       - `gi._gi.GObject`
         - `builtins.object` *(Builtin)*
 <br>
+
+
+<a name="public-methods"></a>
 #### 🔧 Public Methods
+
+
 ##### 🔧 add_* Methods
 **add_hguide**  
 `(yposition: INT32)`<br>
@@ -463,10 +468,15 @@ _Unable to extract signature — callable gi.FunctionInfo(signal_stop_emission_b
 ⚠️ **weak_ref**
 _Unable to extract signature — no signature found for builtin <method 'weak_ref' of 'gi._gi.GObject' objects>_<br>
 <br>
-#### Properties
 
+
+<a name="properties"></a>
+#### ⚙️ Properties
+
+
+<span style="font-size:0.9em;">🏷️ Class properties</span>
 - **id**: `gint` (read/write)
 <br>
 #### Signals
-
+<span style="font-size:0.9em;">📣 Signal events</span>
 <br>
