@@ -7,30 +7,20 @@ title: A Cubed GIMP Docs
 
 Welcome to the official documentation for A Cubed Business Solutions' GIMP 3 Python tools.
 
----
-
 ## 🛠 Install Documentation
-
-- [Installing GIMP 3.0.4 on Debian 13](docs/install/install-gimp-3.0.4-on-debian13.md)
-
----
+- [Install-Gimp-3.0.4-On-Debian13](docs/install/install-gimp-3.0.4-on-debian13.md)
 
 ## 📦 Reference Documentation
-
-- [Plugin Overview](plugin_overview.md)
-
----
+- [Plugin Overview](docs/overviews/plugin_overview.md)
 
 ## 📚 API Class Documents
-
-- [Gimp PDB Procedure](docs/gimp-arch/GimpPDBProcedure.md)
-- [Gimp Procedure Config Run Python](docs/gimp-arch/GimpProcedureConfigRun-python.md)
 - [Image](docs/gimp-arch/Image.md)
-- [Image Procedure](docs/gimp-arch/ImageProcedure.md)
-- [Image Type](docs/gimp-arch/ImageType.md)
-- [Layer](docs/gimp-arch/Layer.md)
+- [Gimpprocedureconfigrun-Python-Fu-Pdb-Scan](docs/gimp-arch/GimpProcedureConfigRun-python-fu-pdb-scan.md)
+- [Gimppdbprocedure](docs/gimp-arch/GimpPDBProcedure.md)
+- [ Resulttuple](docs/gimp-arch/_ResultTuple.md)
 - [Path](docs/gimp-arch/Path.md)
-- [Run Mode](docs/gimp-arch/RunMode.md)
 - [Selection](docs/gimp-arch/Selection.md)
-- [Result Tuple](docs/gimp-arch/_ResultTuple.md)
-
+- [Imageprocedure](docs/gimp-arch/ImageProcedure.md)
+- [Imagetype](docs/gimp-arch/ImageType.md)
+- [Layer](docs/gimp-arch/Layer.md)
+- [Runmode](docs/gimp-arch/RunMode.md)

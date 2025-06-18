@@ -23,8 +23,7 @@ layout: default
         - `gi._gi.GObject`
           - `builtins.object` *(Builtin)*
 <br>
-#### Public Methods
-<span style="font-size:0.9em;">🔹</span>
+#### 🔧 Public Methods
 ##### add_* Methods
 <span style="font-size:0.9em;">🔧</span>
 **add_boolean_argument**  

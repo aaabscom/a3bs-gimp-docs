@@ -22,8 +22,7 @@ layout: default
       - `gi._gi.GObject`
         - `builtins.object` *(Builtin)*
 <br>
-#### Public Methods
-<span style="font-size:0.9em;">🔹 Section grouping</span>
+#### 🔧 Public Methods
 ##### 🔧 add_* Methods
 **add_hguide**  
 `(yposition: INT32)`<br>
