@@ -27,8 +27,8 @@ layout: default
 #### 🔧 Public Methods
 
 ##### 🔧 add_* Methods
-**add_hguide**  
-`(yposition: INT32)`<br>
+- **add_hguide**  
+  - `(yposition: INT32)`<br>
 **add_sample_point**  
 `(position_x: INT32, position_y: INT32)`<br>
 **add_vguide**  
